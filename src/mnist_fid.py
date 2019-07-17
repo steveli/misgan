@@ -261,7 +261,7 @@ def pretrained_imputer_fid(model_file, save_file, batch_size=64):
         return
     args = model['args']
 
-    if args.imputer == 'dyn':
+    if args.imputer == 'comp':
         Imputer = ComplementImputer
     elif args.imputer == 'mask':
         Imputer = MaskImputer
