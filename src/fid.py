@@ -1,4 +1,4 @@
-"""Code apapted from https://github.com/mseitzer/pytorch-fid
+"""Code adapted from https://github.com/mseitzer/pytorch-fid
 """
 from pathlib import Path
 import torch

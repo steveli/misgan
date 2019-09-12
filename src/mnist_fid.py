@@ -1,4 +1,4 @@
-"""Code apapted from https://github.com/mseitzer/pytorch-fid
+"""Code adapted from https://github.com/mseitzer/pytorch-fid
 """
 import torch
 import numpy as np
