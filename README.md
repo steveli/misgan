@@ -67,4 +67,4 @@ ICLR 2019.
 ## Contact
 
 Your feedback would be greatly appreciated!
-Reach us at <cxl@cs.umass.edu>.
+Reach us at <li.stevecx@gmail.com>.
