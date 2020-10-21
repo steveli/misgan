@@ -4,6 +4,10 @@ This repository provides a PyTorch implementation of
 [MisGAN](https://arxiv.org/abs/1902.09599),
 a GAN-based framework for learning from incomplete data.
 
+**Note:** Please check out our
+[follow-up work](https://github.com/steveli/partial-encoder-decoder)
+on models that can be trained faster and more stably.
+
 
 ## Requirements
 
