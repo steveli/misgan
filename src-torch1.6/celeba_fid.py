@@ -8,7 +8,7 @@ from PIL import Image
 from celeba_generator import ConvDataGenerator
 from fid import BaseSampler, BaseImputationSampler
 from masked_celeba import BlockMaskedCelebA, IndepMaskedCelebA
-from celeba_unet_imputer import UNetImputer
+from imputer import UNetImputer
 from fid import FID
 
 
